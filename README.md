@@ -12,3 +12,5 @@
   
   step 2 :- run the manage.py file and use routs as per Urls.py 
  
+ 
+ ## Note:- requirement.txt file i am not updating at run time found any module not found errors please use pip to install
