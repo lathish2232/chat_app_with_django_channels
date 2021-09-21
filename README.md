@@ -8,9 +8,13 @@
   3.redies server (server dlls avaialble in in code it self) <br>
   
  ### Steps to run the project
-  step 1:-Navigate to chat_app_with_django_channels\Redis-x64-5.0.10  dir and find the file "redis-server.exe" and double click it it will start the server don't close the command prompt 
+  step 1:-Navigate to chat_app_with_django_channels\Redis-x64-5.0.10  dir and find the file "redis-server.exe" and double click it it will start the server don't close the command prompt  server start like bellow 
+  ![image](https://user-images.githubusercontent.com/44872859/134208135-272c54d7-8060-40b5-bdb2-2bd736ee74b9.png)
+
   
   step 2 :- run the manage.py file and use routs as per Urls.py 
+ 
+ 
  
  
  ## Note:- requirement.txt file i am not updating at run time found any module not found errors please use pip to install
